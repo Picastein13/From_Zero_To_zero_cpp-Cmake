@@ -1,0 +1,3 @@
+/home/yas/Foramtions_Zero_to_Hero/From_Zero_To_zero_cpp-Cmake/Cpp_Prj/build/CMakeFiles/Cpp_Prj.dir
+/home/yas/Foramtions_Zero_to_Hero/From_Zero_To_zero_cpp-Cmake/Cpp_Prj/build/CMakeFiles/edit_cache.dir
+/home/yas/Foramtions_Zero_to_Hero/From_Zero_To_zero_cpp-Cmake/Cpp_Prj/build/CMakeFiles/rebuild_cache.dir
